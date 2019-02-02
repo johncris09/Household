@@ -1,0 +1,10 @@
+C:\Users\Via Marie\Desktop\PIT\Household\Household\bin\Debug\Household.exe
+C:\Users\Via Marie\Desktop\PIT\Household\Household\bin\Debug\Household.pdb
+C:\Users\Via Marie\Desktop\PIT\Household\Household\obj\x86\Debug\Household.frmHousehold.resources
+C:\Users\Via Marie\Desktop\PIT\Household\Household\obj\x86\Debug\Household.Properties.Resources.resources
+C:\Users\Via Marie\Desktop\PIT\Household\Household\obj\x86\Debug\Household.csproj.GenerateResource.Cache
+C:\Users\Via Marie\Desktop\PIT\Household\Household\obj\x86\Debug\Household.exe
+C:\Users\Via Marie\Desktop\PIT\Household\Household\obj\x86\Debug\Household.pdb
+C:\Users\Via Marie\Desktop\PIT\Household\Household\bin\Debug\Household.accdb
+C:\Users\Via Marie\Desktop\PIT\Household\Household\bin\Debug\Household.exe.config
+C:\Users\Via Marie\Desktop\PIT\Household\Household\obj\x86\Debug\Household.csprojResolveAssemblyReference.cache
